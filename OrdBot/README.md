@@ -17,4 +17,4 @@ Buiding an OrdBot
  * Wire: 12AWG, 22AWG, and 20AWG Hookup wire from RadioShack, and extra 20AWG wire rolls in different colors from [Amazon in 100ft] (http://www.amazon.com/UL1015-Commercial-Copper-Bright-Diameter/dp/B003HGHQ74/ref=sr_1_3?ie=UTF8&qid=1352483425&sr=8-3&keywords=blue+20awg)
  * Connectors listed here: http://www.buildlog.net/wiki/doku.php?id=ord:wiring from http://www.digikey.com
  * Spring from McMaster p/n 9664K17 for wiring and 9657K155 for bed platform
- * Crimpers from [here](http://www.amazon.com/gp/product/B00079LN1Y/ref=oh_details_o01_s00_i00)
+ * Crimpers from [here](http://www.amazon.com/gp/product/B007JLN93S/ref=oh_details_o00_s00_i00?ie=UTF8&psc=1)
